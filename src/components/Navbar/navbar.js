@@ -24,7 +24,7 @@ const history = useHistory();
     console.log("Logging out")
     axios({
       method: "GET",
-      url: "http://localhost:5000/users/logout",
+      url: "https://storyhouse-bookstore.herokuapp.com/users/logout",
       withCredentials: true,
     })
     .then((res) => {
