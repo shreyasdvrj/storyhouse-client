@@ -1,0 +1,25 @@
+.splitScreen {
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+  }
+    .topPane {
+        margin: 10%;
+        width: 60%;
+      grid-column: 1;
+      grid-row: 1;
+    }
+  
+    .bottomPane {
+        margin: 10%;
+        width: 60%;
+      grid-column: 2;
+      grid-row: 1;
+    }
+
+.split {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

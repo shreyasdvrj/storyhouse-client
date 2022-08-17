@@ -1,0 +1,25 @@
+.product-div {
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    align-content: left;
+
+}
+
+.product-image-div {
+    width: 30%;
+    height: 35%;
+}
+
+.product-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.product-info-div {
+    width: 35%;
+    height: 35%;
+    margin-left: 10%;
+}

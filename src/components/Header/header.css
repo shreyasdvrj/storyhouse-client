@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap');
+/* CSS Above This Line is for Google Font Import - Do Not Copy*/
+
+.brand-navigation {
+  background-color: #104F55;
+  display: flex;
+  justify-content: center;
+  z-index: 5;
+}
+
+.content {
+  width: 960px;
+  height: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+span {
+  list-style: none;
+  margin: 0;
+  display: flex;
+  justify-content: flex-end;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  font-size: 10px;
+  color: #FFFFFF;
+}
+
+#support {
+  font-size: 10px;
+  color: #FFFFFF; 
+  text-decoration: none;
+}
+
+#support:hover {
+    color: #82C0C4;
+}

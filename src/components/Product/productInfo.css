@@ -1,0 +1,38 @@
+.pdiv {
+  text-align: left;
+  height: 35%;
+}
+.book-name {
+  font-size: x-large;
+  font-weight: bold;
+}
+.book-author {
+  font-style: italic;
+  font-size: small;
+}
+.book-rating {
+  font-size: small;
+  margin-top: 10px;
+  margin-left: 5px;
+}
+.book-desc {
+  font-size: small;
+}
+
+.book-formats {
+  font-size: small;
+  color: grey;
+  margin-top: 10%;
+}
+
+.p-addToCart {
+  margin-top: 7%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  font-size: small;
+  align-items: center;
+  background-color: black;
+  color: white;
+}

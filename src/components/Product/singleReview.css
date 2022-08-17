@@ -1,0 +1,15 @@
+.single-review{
+    margin-top: 5px;
+    margin-left: 15%;
+    margin-bottom: 5px;
+    width: 45%;
+    text-align: left;
+}
+
+.review-heading{
+    font-size: large;
+    font-weight: bold;
+}
+.review-text{
+    font-size: medium;
+}

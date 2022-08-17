@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,600,700&display=swap');
+/* CSS Above This Line is for Google Font Import - Do Not Copy*/
+
+.tb-brand-navigation {
+  background-color: #104F55;
+  width: 100%;
+  height: 5%;
+}
+
+.tb-content {
+  width: 40%;
+  height: 2%;
+  margin-top: 0%;
+}
+.tb-h1{
+  text-align: left;
+  margin-left: 12%;
+  padding-top: 3%;
+  padding-left: 3%;
+font-family: 'Public Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+color: #FFFFFF;
+
+}
+
+.tb-h2{
+text-align: left;
+  margin-left: 12%;
+ padding-left: 3%;
+ padding-bottom: 3%;
+ width: 80%;
+font-family: 'Public Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+color: #FFFFFF;
+
+}
+
